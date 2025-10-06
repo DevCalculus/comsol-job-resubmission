@@ -6,8 +6,8 @@
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
 
-INPUTFILE="theta30.mph"
-OUTPUTFILE="theta30_out.mph"
+INPUTFILE="your_input_file.mph"
+OUTPUTFILE="your_input_file_out.mph"
 
 module load StdEnv/2023
 module load comsol/6.3
