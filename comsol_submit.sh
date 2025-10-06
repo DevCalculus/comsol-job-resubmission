@@ -1,6 +1,6 @@
 #!/bin/bash
 #SBATCH --time=06-23:59             # Specify (d-hh:mm)
-#SBATCH --account=def-roxa88        # Replace with your account
+#SBATCH --account=acountname        # Replace with your account
 #SBATCH --mem=0
 #SBATCH --cpus-per-task=64
 #SBATCH --nodes=1
