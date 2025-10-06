@@ -1,6 +1,6 @@
 # COMSOL Job Resubmission Script (Compute Canada)
 
-This repository provides a **SLURM batch script** for running and automatically resuming COMSOL Multiphysics jobs on **Compute Canada clusters** (e.g., Narval, Béluga, Graham).  
+This repository provides a **SLURM batch script** for running and automatically resuming COMSOL Multiphysics jobs on **Compute Canada clusters** (e.g., Narval and Fir).  
 It uses COMSOL’s recovery mechanism to restart simulations if they are interrupted by time limits or node failures.
 
 ---
